@@ -1,0 +1,30 @@
+.money {
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 2px 0px #5255ff;
+}
+
+.money h2 {
+	font-size: 30px;
+	margin: 12px 0 10px;
+	color: #000;
+}
+
+.money h3 {
+	font-size: 25px;
+	margin: 0;
+	color: #5255ff;
+}
+
+.money button {
+	margin-top: 20px;
+	padding: 12px 25px;
+	border: 0;
+	outline: 0;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 600;
+	color: #fff;
+	background: #b656f8;
+	cursor: pointer;
+}

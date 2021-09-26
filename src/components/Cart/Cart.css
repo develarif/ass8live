@@ -1,0 +1,22 @@
+.cart-data {
+	display: flex;
+	justify-content: space-between;
+}
+
+.cart {
+	position: sticky;
+	top: 30px;
+}
+
+.cart button {
+	margin-top: 20px;
+	padding: 12px 25px;
+	border: 0;
+	outline: 0;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 600;
+	color: #fff;
+	background: #b656f8;
+	cursor: pointer;
+}
