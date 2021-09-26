@@ -1,0 +1,32 @@
+header {
+	width: 100%;
+	background: #ffffff;
+}
+
+.header-container {
+	width: 90%;
+	margin: auto;
+}
+
+.header-container .row {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo img {
+	width: 120px;
+}
+
+h1,
+p {
+	margin: 0;
+}
+
+header h1 {
+	color: #b656f8;
+}
+
+header p {
+	color: #5255ff;
+}

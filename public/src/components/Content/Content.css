@@ -1,0 +1,48 @@
+.notes-area {
+	width: 100%;
+}
+
+.notes-area .notes-container {
+	width: 90%;
+	margin: 50px auto;
+}
+
+.notes-container .row {
+	display: flex;
+	justify-content: space-between;
+}
+
+.notes-container .notes {
+	display: grid;
+	grid-gap: 50px;
+	grid-template-columns: repeat(2, 1fr);
+}
+
+.notes img {
+	width: auto;
+	height: 165px;
+}
+
+.notes-list {
+	width: 75%;
+	background: #fff;
+	padding: 50px;
+	border-radius: 10px;
+}
+
+.notes-list > h1 {
+	margin-bottom: 20px;
+	font-size: 40px;
+}
+
+.notes-list hr {
+	margin-bottom: 30px;
+}
+
+.cart-list {
+	width: 20%;
+	margin-left: 5%;
+	background: #fff;
+	padding: 30px;
+	border-radius: 10px;
+}
